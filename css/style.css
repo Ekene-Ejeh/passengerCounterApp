@@ -9,7 +9,7 @@ body {
 #counter-body {
    /* background-color: black; */
    /* background-image: url(../images/pexels-cottonbro-7792248.jpg); */
-   border-radius: 3px white solid;
+   /* border-radius: 3px white solid; */
 }
 
 button {
@@ -43,4 +43,12 @@ h2 {
 
 #save-btn {
    background: green;
+}
+
+p {
+   color: yellow;
+   font: 60px;
+   font-size: bold;
+   margin-top: 20px;
+   margin-bottom: 20px;
 }
