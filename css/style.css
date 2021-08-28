@@ -12,11 +12,15 @@ body {
    border-radius: 3px white solid;
 }
 
-.btn1 {
+button {
    border: none;
    padding-top: 10px;
+   padding-bottom: 10px;
    color: white;
-   border-radius: 2px white solid;
+   font-weight: bold;
+   width: 200px;
+   margin-bottom: 5px;
+   border-radius: 5px;
    background-color: green;
 }
 
@@ -33,10 +37,10 @@ h2 {
    margin-bottom: 15px;
 }
 
-/* button {
-   border: none;
-   padding-top: 10px;
-   color: white;
-   border-radius: 2px white solid;
-   background-color: green;
-} */
+#increment-btn {
+   background-color: darkred;
+}
+
+#save-btn {
+   background: green;
+}
